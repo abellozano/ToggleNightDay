@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Toggle Night Day</string>
+    <string name="tv_title">We\'re on Day Mode!</string>
+    <string name="tv_titleDark">We\'re on Night Mode!</string>
+    <string name="et_name">Name</string>
+    <string name="ethLastName">Last Name</string>
+    <string name="s_mode">Night</string>
+    <string name="b_button">Button</string>
+    <string name="cb_checkbox1">Option 1</string>
+    <string name="cb_option2">Option 2</string>
+    <string name="rb_option1">Option 1</string>
+    <string name="rb_option2">Option 2</string>
+    <string name="rb_option3">Option 3</string>
+    <string name="ethFirstName">First Name</string>
+</resources>
